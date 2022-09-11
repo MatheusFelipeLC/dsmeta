@@ -8,7 +8,11 @@ function Header() {
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+          <a href='https://www.linkedin.com/in/matheus-felipe-663bb467/' target="_blank"> Matheus Felipe </a> 
+        </p>  
+        <p>
+          com o apoio do Professor Nelio Alves 
+          <a href="https://www.instagram.com/devsuperior.ig" target="_blank"> @devsuperior.ig </a>
         </p>
     </div>
 </header>
