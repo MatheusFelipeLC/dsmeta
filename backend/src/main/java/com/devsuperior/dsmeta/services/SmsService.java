@@ -38,7 +38,7 @@ public class SmsService {
 		String date = sale.getDate().getMonthValue() + "/" + sale.getDate().getYear();
 		
 		String msg = "O vendedor " + sale.getSellerName() + " foi destaque em " + date
-			    + " com um total de R$ " + sale.getAmount();
+			    + " com um total de R$ " + sale.getAmount() + "nosso salário daqui ums meses francisca kellory";
 
 		Twilio.init(twilioSid, twilioKey);
 
